@@ -22,7 +22,7 @@ Find what isn't meant to be seen.
 ## Setup
 
 1. Clone or download this repository.
-2. From the project root (NoFlowers/), start a local web server:
+2. From the project root (`NoFlowers/`), start a local web server:
 
    ```bash
    python -m http.server 8000
